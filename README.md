@@ -8,7 +8,7 @@ Just download the desired zip file, extract it and use an environment like eclip
 
 ## Languages used:
 
-1.) Computer repair shop - HTML,PHP,CSS
-2.) Fitness Project - Java
-3.) Human Resource Mnaagement - Java
-4.) Movie Database Project - Java
+1.) Computer repair shop - HTML,PHP,CSS  
+2.) Fitness Project - Java  
+3.) Human Resource Mnaagement - Java  
+4.) Movie Database Project - Java  
