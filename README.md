@@ -1,4 +1,4 @@
-# Projects on my resume
+# My Projects
 
 These projects are made by myself and in one case, with my team members as a part of my college coursework requirement. 
 
