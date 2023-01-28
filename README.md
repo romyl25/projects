@@ -1,6 +1,6 @@
 # My Projects
 
-These are my projects from my college courses. 
+These are my projects I made.
 
 ## Getting Started
 
