@@ -1,6 +1,6 @@
 # My Projects
 
-These are my projects I made.
+These are the projects I made.
 
 ## Getting Started
 
