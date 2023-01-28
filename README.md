@@ -9,8 +9,13 @@ Just download the desired zip file, extract it and use an IDE like eclipse to ru
 ## Languages used:
 
 1.) Grocery Linked List - C++
+
 2.) Computer repair shop - HTML, PHP, CSS  
+
 3.) Fitness Project - Java  
+
 4.) Human Resource Management - Java  
+
 5.) Movie Database Project - Java  
+
 6.) Stimuli Recognition app - PHP, Javascript, SQL
